@@ -1,0 +1,12 @@
+// 將您的設定放入此檔案中以覆寫預設值
+{
+    "editor.fontSize": 20,
+    "typescript.check.tscVersion": false,
+    "git.ignoreLegacyWarning": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "'Source Code Pro Semibold', Consolas, monospace",
+    "editor.lineHeight": 30,
+}

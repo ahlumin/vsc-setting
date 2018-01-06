@@ -1,0 +1,5 @@
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+mgmcdermott.vscode-language-babel
+streetsidesoftware.code-spell-checker
+xabikos.ReactSnippets
